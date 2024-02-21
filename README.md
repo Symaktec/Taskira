@@ -1,2 +1,2 @@
 # Taskira
-Taskira Asirin mai taki
+Taskira Asirin mai daki
